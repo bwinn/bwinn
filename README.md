@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bwinn
 - 👀 I’m interested in water quality testing.
-- 🌱 I’m currently learning git/github, R
+- 🌱 I’m currently learning git/github, R, QGIS
 - 
 - 
 
